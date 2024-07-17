@@ -1,22 +1,10 @@
 <html>
-  <head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=qM_6omlu" charset="utf-8"></script>
-<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
-<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
-<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
-<script type="text/javascript">
-    __wm.pc(0.001);
-    __wm.init("https://web.archive.org/web");
-  __wm.wombat("http://www.modmyi.com:80/info/iphonemodem.d.php","20090518081239","https://web.archive.org/","web","https://web-static.archive.org/_static/",
-          "1242634359");
-</script>
-<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt" />
-<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ" />
-<!-- End Wayback Rewrite JS Include -->
+  <head>
 
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
     <!-- base -->
     <meta content="minimum-scale=1.0, width=device-width, maximum-scale=0.6667, user-scalable=no" name="viewport">
-    <link href="/web/20090518081239cs_/http://www.modmyi.com/info/d/depictions.css" rel="stylesheet" type="text/css">
+    <link href="/d/depictions.css" rel="stylesheet" type="text/css">
   </head>
   <body>
     <div id="content">
@@ -31,25 +19,25 @@
 <ul class="textboxblack">
   <li class="txtblack">
     <div class="writehereblack">
-      <a href="https://web.archive.org/web/20090518081239/http://modmyi.com/" target="_blank"><img alt="iPhone forums" src="/web/20090518081239im_/http://www.modmyi.com/info/d/cydia-more-info-header.png"></a>
+      <a href="http://modmyifone.altnet.online" target="_blank"><img alt="iPhone forums" src="/d/cydia-more-info-header.png"></a>
     </div>
   </li>
 </ul>     <!--Description.-->
       <ul class="menu">
         <li style="height: 70px; margin-top: 10px;">
-         <img src="/web/20090518081239im_/http://www.modmyi.com/info/images/icon.png" style="vertical-align: middle; margin-left: 15px;" width="59" height="60">
+         <img src="/images/icon.png" style="vertical-align: middle; margin-left: 15px;" width="59" height="60">
           <span style="float: right; margin-top: 22px; margin-right: 15px; font-size: medium;">iPhoneModem by Addition</span><br></span>
         </li>
         <li class="break"></li>
         <li style="height: auto;">
           <p style="text-align: center; margin-left: 10px; margin-right: 10px;">iPhoneModem, by Addition, is an application for the iPhone that aims at making it really easy to use the iPhone's Internet connection on your computer.</p>
-          <p style="text-align: center; margin-left: 10px; margin-right: 10px;">iPhoneModem by Addition makes connecting a one click task - you should also download the helper application available at <a style="display: inline; height: auto;" href="https://web.archive.org/web/20090518081239/http://www.iphonemodem.com/" target="_blank">iphonemodem.com</a>.</p>
+          <p style="text-align: center; margin-left: 10px; margin-right: 10px;">iPhoneModem by Addition makes connecting a one click task - you should also download the helper application available at <a style="display: inline; height: auto;" href="http://web.archive.org/web/20090518081239/http://www.iphonemodem.com/" target="_blank">iphonemodem.com</a>.</p>
         </li>
       </ul>
       <!--Menu.-->
       <ul class="menu">
         <li>
-          <a href="https://web.archive.org/web/20090518081239/http://www.iphonemodem.com/" target="_blank"><span class="menuname">iPhoneModem Web Site</span><span class="itemarrow"></span></a>
+          <a href="http://web.archive.org/web/20090518081239/http://www.iphonemodem.com/" target="_blank"><span class="menuname">iPhoneModem Web Site</span><span class="itemarrow"></span></a>
         </li>
         <li class="break"></li>
         <li>
